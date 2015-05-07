@@ -1,0 +1,6 @@
+spring.mongo.db.config
+spring.mongo.db.controller
+spring.mongo.db.dao
+spring.mongo.db.demo
+spring.mongo.db.model
+spring.mongo.db.service
